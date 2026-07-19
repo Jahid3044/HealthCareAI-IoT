@@ -1,1 +1,1 @@
-# MedicalAI-IoT
+# HealthCareAI-IoT
